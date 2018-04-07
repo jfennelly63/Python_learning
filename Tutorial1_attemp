@@ -1,2 +1,2 @@
-x = 1
-print(x)
+intro_list = ["hello", " ", "world"]
+print(intro_list)
